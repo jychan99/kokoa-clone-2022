@@ -1,3 +1,3 @@
 # kokoa clone 2022 update
 
-첫번쨰 코코아클론코딩
+HTML & CSS are so much fun!
