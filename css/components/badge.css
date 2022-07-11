@@ -1,4 +1,4 @@
-.badge {
+.badge-lg {
   background-color: tomato;
   width: 20px;
   height: 20px;
@@ -8,4 +8,11 @@
   align-items: center;
   color: white;
   font-weight: 600;
+}
+.badge-sm {
+  background-color: tomato;
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+  display: flex;
 }
