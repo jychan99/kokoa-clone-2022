@@ -16,3 +16,15 @@
   border-radius: 4px;
   display: flex;
 }
+.badge-warning {
+  background-color: white;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  display: flex;
+  border: 2px solid tomato;
+  color: tomato;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+}

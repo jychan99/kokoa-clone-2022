@@ -47,3 +47,11 @@
   display: block;
   margin-bottom: 10px;
 }
+
+.user-component__phonenumber {
+  position: relative;
+}
+.user-component__phonenumber-notification {
+  position: absolute;
+  left: 170px;
+}
